@@ -1,0 +1,7 @@
+https://github.com/CSE3320-Spring23/filesystem-vietin?search=1#requirements
+
+https://github.com/CSE3320-Spring23/star-catalog-multithreading-EthanDebnath
+
+https://github.com/CSE3320-Spring23/malloc-EthanDebnath
+
+https://github.com/CSE3320-Spring23/shell-EthanDebnath
